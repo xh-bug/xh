@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhoutai"]=self["webpackChunkhoutai"]||[]).push([[427],{427:function(u,n,t){t.r(n),t.d(n,{default:function(){return a}});var e=function(){var u=this,n=u._self._c;return n("div",[u._v("wc")])},l=[],r={},c=r,i=t(1656),s=(0,i.A)(c,e,l,!1,null,null,null),a=s.exports}}]);
+//# sourceMappingURL=427.e09baa63.js.map
